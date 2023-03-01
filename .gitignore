@@ -1,0 +1,5 @@
+# ignore all CSV files in the data/ folder
+data/*.csv
+
+# ignore DB files in the data/ folder
+data/*.db
