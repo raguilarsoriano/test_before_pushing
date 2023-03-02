@@ -3,3 +3,7 @@ data/*.csv
 
 # ignore DB files in the data/ folder
 data/*.db
+
+# ignore checkpoint folder
+.ipynb_checkpoints/
+
